@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support
 
 For any questions, support, or collaboration, please contact:
-📧 **patrasatyaprakash73@gmail.com**
+📧 **auroville1928@gmail.com**
 
 ---
 <div align="center">
