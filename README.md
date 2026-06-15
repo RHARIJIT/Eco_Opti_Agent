@@ -36,11 +36,6 @@ Eco-Opti-Agent is a full-stack, multi-agent AI system designed to intelligently 
 | **AI / Logic**   | LangChain, Hugging Face Hub (Llama 3 8B) |
 | **Deployment**   | Hugging Face Spaces              |
 
-## 🚀 Live Demo
-
-Check out the live application here: **[Eco-Opti-Agent Live on Hugging Face Spaces](https://huggingface.co/spaces/Satya73/eco-opti-agent)**
-
-*(Note: The demo gracefully degrades to use mock data if an API key is not provided).*
 
 ## 🛠️ Local Installation
 
